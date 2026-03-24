@@ -1,72 +1,86 @@
 # 👋 Hi, I'm Shaik Rehman
 
-🚀 Full Stack Developer (MERN) focused on building scalable web applications and real-world products.
+🚀 Full Stack Developer (MERN) | Building scalable systems & real-world applications  
 
 ---
 
 ## 🧠 About Me
-- 💻 Building production-level applications using MERN stack  
-- 🔐 Experienced in JWT authentication, REST APIs & role-based systems  
-- ⚡ Strong focus on clean UI, performance, and backend architecture  
-- 🎯 Goal: Build impactful products that solve real-world problems  
+- 💻 3x Intern with hands-on MERN stack experience  
+- ⚙️ Built backend systems with authentication, RBAC & booking workflows  
+- 📦 Focused on scalable APIs, clean architecture & performance  
+- 🎯 Targeting SDE roles (6–10 LPA+)  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code)
+**Frontend:** React.js, JavaScript, HTML5, CSS3  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, Postman, VS Code  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🚗 Bike & Car Rental System
-- Multi-role system (Admin, Provider, Customer)  
-- JWT Authentication & Role-Based Access Control  
-- Booking lifecycle with cancellation & revenue tracking  
-- Built scalable REST APIs using Node.js & MongoDB  
+### 🚗 Bike & Car Rental System (Backend + Real-Time Tracking)
+> Scalable multi-role rental platform
 
-### 🌐 Portfolio Platform & Admin Dashboard
-- Dynamic admin dashboard for content management  
-- Responsive UI with React  
-- Backend APIs with Express & MongoDB  
+- Designed system supporting **Admin, Provider, Customer roles**
+- Implemented **real-time vehicle tracking** for live location updates  
+- Built **JWT authentication + Role-Based Access Control (RBAC)**  
+- Developed **25+ REST APIs** for bookings, vehicles, approvals & payments  
+- Engineered complete **booking lifecycle with cancellation & revenue logic**  
+- Structured backend using **modular architecture for scalability**
+
+👉 Focus: Backend Engineering, Real-Time Systems, API Design  
 
 ---
 
-## 📈 GitHub Stats
-![Rehman GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikRehman786&show_icons=true&theme=radical)
+### 🧠 Portify – AI SaaS Resume & Interview Platform
+> Full-stack AI-powered career tool
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRehman786&layout=compact&theme=radical)
+- Built **SaaS platform** for resume creation, ATS score checking & portfolio generation  
+- Implemented **AI-powered resume analysis & optimization system**  
+- Developed feature to convert **resume → personal portfolio website automatically**  
+- Integrated **AI mock interview system** with dynamic question generation  
+- Designed scalable backend for handling multiple user sessions  
+
+👉 Focus: SaaS Architecture, AI Integration, Product Development  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikRehman786&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikRehman786&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRehman786&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 What I Focus On
+- Writing clean & maintainable code  
+- Designing backend systems that scale  
+- Building products, not just features  
 
 ---
 
 ## 📚 Currently Learning
-- Advanced React (performance & optimization)  
-- System Design basics  
-- Backend scalability concepts  
+- System Design (HLD basics)  
+- Advanced Backend Optimization  
+- TypeScript  
 
 ---
 
-## 🤝 Connect With Me
-- 📧 shaikrehman78609@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shaik-rehman-9449082ab/
+## 🤝 Let's Connect
+📧 shaikrehman78609@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shaik-rehman-9449082ab/
 
 ---
 
-⚡ *I focus on building real-world applications, not just projects.*
+⚡ *I don’t just build projects — I build systems.*
