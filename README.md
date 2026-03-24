@@ -1,23 +1,30 @@
 # 👋 Hi, I'm Shaik Rehman
 
-🚀 Full Stack Developer (MERN) | Building scalable systems & real-world applications  
+🚀 Full Stack Developer (MERN) | Building scalable systems, SaaS platforms & real-time applications  
 
 ---
 
 ## 🧠 About Me
-- 💻 3x Intern with hands-on MERN stack experience  
-- ⚙️ Built backend systems with authentication, RBAC & booking workflows  
-- 📦 Focused on scalable APIs, clean architecture & performance  
-- 🎯 Targeting SDE roles (6–10 LPA+)  
+- 💻 3x Intern with hands-on experience in full-stack development  
+- ⚙️ Built scalable backend systems with authentication, RBAC & booking workflows  
+- 📦 Experienced in designing REST APIs, real-time features & modular architectures  
+- 🧠 Exploring system design, backend optimization & AI-powered applications  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** React.js, JavaScript, HTML5, CSS3  
+**Languages:** JavaScript, Python, Java  
+
+**Frontend:** React.js, HTML5, CSS3  
+
 **Backend:** Node.js, Express.js, REST APIs  
+
+**Frameworks (Basics):** Spring Boot, Django  
+
 **Database:** MongoDB, MySQL  
-**Tools:** Git, Postman, VS Code  
+
+**Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
@@ -30,7 +37,7 @@
 - Implemented **real-time vehicle tracking** for live location updates  
 - Built **JWT authentication + Role-Based Access Control (RBAC)**  
 - Developed **25+ REST APIs** for bookings, vehicles, approvals & payments  
-- Engineered complete **booking lifecycle with cancellation & revenue logic**  
+- Engineered **complete booking lifecycle with cancellation & revenue logic**  
 - Structured backend using **modular architecture for scalability**
 
 👉 Focus: Backend Engineering, Real-Time Systems, API Design  
@@ -42,7 +49,7 @@
 
 - Built **SaaS platform** for resume creation, ATS score checking & portfolio generation  
 - Implemented **AI-powered resume analysis & optimization system**  
-- Developed feature to convert **resume → personal portfolio website automatically**  
+- Developed feature to convert **resume → portfolio website automatically**  
 - Integrated **AI mock interview system** with dynamic question generation  
 - Designed scalable backend for handling multiple user sessions  
 
@@ -64,16 +71,16 @@
 ---
 
 ## 📌 What I Focus On
-- Writing clean & maintainable code  
-- Designing backend systems that scale  
-- Building products, not just features  
+- Writing clean, maintainable & scalable code  
+- Designing backend systems with real-world use cases  
+- Building products that solve actual problems  
 
 ---
 
 ## 📚 Currently Learning
 - System Design (HLD basics)  
 - Advanced Backend Optimization  
-- TypeScript  
+- TypeScript & scalable architectures  
 
 ---
 
@@ -83,4 +90,4 @@
 
 ---
 
-⚡ *I don’t just build projects — I build systems.*
+⚡ *I don’t just build projects — I design systems that scale.*
